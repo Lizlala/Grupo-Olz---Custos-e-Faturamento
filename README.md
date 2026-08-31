@@ -20,7 +20,7 @@ O dashboard cruza faturamento, custos, resultado e margem, com quebras por mês,
 
 ## Visualização
 
-![Dashboard Grupo OLZ](images/dashboard-overview.png)
+![Dashboard Grupo OLZ](images/dashboard-overview.png.png)
 
 ---
 
