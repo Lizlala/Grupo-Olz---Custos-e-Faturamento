@@ -7,6 +7,7 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white)
+![GOOGLE SHEETS](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
 
 Análise de Custos e Faturamento é um projeto de visualização de dados construído em Power BI para apoiar a área contábil/financeira do Grupo OLZ na identificação de onde a empresa está perdendo dinheiro. O dashboard cruza faturamento, custos, resultado e margem, com quebras por mês, centro de custo e classe de custo, permitindo identificar rapidamente os períodos e categorias que mais impactam o resultado.
