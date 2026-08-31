@@ -1,0 +1,103 @@
+"Relatório de Custos e Faturamento
+",,,,,,,,
+Data,Lançamento (Descrição),Tipo,Categoria,Valor,Classe de Custo,Centro de Custo,Cliente / Projeto,Forma de Pagamento
+2/13/2024,Venda de produtos premium,Receita,Vendas,"6471,41",,Comercial, Rezende Silveira Ltda.,Transferência
+7/18/2024,Contrato de fornecimento mensal,Receita,Vendas,"3565,77",,Administrativo, Martins S/A,Boleto
+3/16/2024,Venda de serviços complementares,Receita,Vendas,"851,85",,Administrativo, Monteiro,Transferência
+10/22/2024,Campanha de marketing digital,Custo,Marketing,"1827,392", Variável,Comercial,,PIX
+6/8/2024,Anúncios em redes sociais,Custo,Marketing,"1005,48", Variável,Logística,,PIX
+5/9/2024,Comissão sobre vendas especiais,Receita,Comissões,"2480,18",,Comercial, Freitas,PIX
+3/25/2024,Consultoria de marketing estratégico,Custo,Marketing,"5644,32", Variável,Comercial,,PIX
+11/1/2024,Compra de materiais de escritório,Custo,Insumos,"616,576", Fixo,Comercial,,Transferência
+10/22/2024,Prestação de serviços técnicos,Receita,Serviços,"9056,11",,Administrativo, Fogaça,Boleto
+1/7/2024,Aquisição de matéria-prima,Custo,Insumos,"2877,44", Fixo,Administrativo,,Cartão
+12/21/2024,Pagamento de benefícios funcionais,Custo,RH,"1234,232", Fixo,TI,,Boleto
+6/9/2024,Consultoria especializada,Receita,Serviços,"2983,3",,Administrativo, Pires Martins S/A,Transferência
+12/13/2024,Suporte técnico avançado,Receita,Serviços,"1719,32",,Administrativo, Porto Ltda.,Boleto
+2/7/2024,Comissão por indicação de cliente,Receita,Comissões,"3096,78",,Administrativo, da Luz,Transferência
+1/4/2024,Participação em feira de negócios,Custo,Marketing,"5078,56", Variável,Logística,,Boleto
+6/23/2024,Compra de equipamentos para produção,Custo,Insumos,"4541,296", Variável,TI,,Cartão
+8/30/2024,Frete de entrega para cliente,Custo,Logística,"2756,424", Variável,Comercial,,PIX
+12/16/2024,Venda de produtos da linha básica,Receita,Vendas,"2073,79",,Administrativo, Almeida,Cartão
+9/14/2024,Treinamento da equipe comercial,Custo,RH,"2971,64", Variável,Produção,,Cartão
+12/7/2024,Transporte de mercadorias,Custo,Logística,"5703,576", Variável,Administrativo,,Boleto
+12/27/2024,Implementação de software customizado,Receita,Serviços,"9803,95",,Administrativo, Campos Ltda.,Transferência
+4/21/2024,Distribuição para filiais,Custo,Logística,"6261,656", Variável,Logística,,Boleto
+9/23/2024,Comissão por superação de meta,Receita,Comissões,"4627,51",,Comercial, Caldeira,Cartão
+5/28/2024,Comissão sobre renovação de contrato,Receita,Comissões,"2080,49",,Comercial, da Costa - ME,Cartão
+5/10/2024,Comissão de vendas trimestrais,Receita,Comissões,"8264,05",,Comercial, Viana S.A.,Boleto
+4/29/2024,Venda de produtos promocionais,Receita,Vendas,846,,Comercial, Pereira Peixoto e Filhos,Transferência
+12/7/2024,Compra de componentes eletrônicos,Custo,Insumos,"3318,136", Fixo,Produção,,PIX
+11/25/2024,Venda de pacote empresarial completo,Receita,Vendas,"7125,28",,Comercial, Duarte Barros e Filhos,Transferência
+2/5/2024,Pagamento de horas extras,Custo,RH,"2552,808", Variável,Produção,,PIX
+3/7/2024,Licenças de software anual,Custo,TI,"6280,112", Variável,Comercial,,PIX
+5/17/2024,Material promocional impresso,Custo,Marketing,"1326,344", Variável,Produção,,Boleto
+5/2/2024,Manutenção de equipamentos de TI,Custo,TI,"2354,472", Fixo,Comercial,,Boleto
+8/1/2024,Compra de material de embalagem,Custo,Insumos,"1190,16", Fixo,Administrativo,,Transferência
+11/2/2024,Aquisição de peças de reposição,Custo,Insumos,"3772,344", Fixo,Administrativo,,Boleto
+3/21/2024,Recrutamento e seleção,Custo,RH,"6291,192", Variável,TI,,Cartão
+3/31/2024,Venda de pacote básico de serviços,Receita,Vendas,"1746,05",,Administrativo, Freitas,Transferência
+8/14/2024,Evento de lançamento de produto,Custo,Marketing,"3330,184", Variável,Administrativo,,Transferência
+8/26/2024,Comissão sobre venda especial,Receita,Comissões,"1463,67",,Comercial, Azevedo - ME,Cartão
+11/18/2024,Consultoria em processos,Receita,Serviços,"782,1",,Comercial, Lima Aragão S.A.,PIX
+12/16/2024,Compra de materiais para estoque,Custo,Insumos,"2324,768", Fixo,TI,,Transferência
+10/19/2024,Desenvolvimento de projeto personalizado,Receita,Serviços,"5568,84",,Comercial, Caldeira Silveira e Filhos,Transferência
+10/17/2024,Capacitação profissional,Custo,RH,"1275,472", Fixo,TI,,PIX
+5/6/2024,Suporte de infraestrutura de TI,Custo,TI,"3093,44", Variável,Produção,,Cartão
+2/16/2024,Publicidade online,Custo,Marketing,"4158,688", Variável,Logística,,Boleto
+11/15/2024,Campanha promocional sazonal,Custo,Marketing,"5571,984", Fixo,Logística,,Transferência
+1/14/2024,Comissão por referência de cliente,Receita,Comissões,"627,55",,Administrativo, Rezende - ME,Cartão
+8/11/2024,Manutenção preventiva,Receita,Serviços,"2910,1",,Comercial, Correia,PIX
+2/11/2024,Comissão por renovação contratual,Receita,Comissões,"699,55",,Comercial, Rezende,Transferência
+10/11/2024,Projeto de consultoria mensal,Receita,Serviços,"2627,61",,Administrativo, Cardoso,Transferência
+2/6/2024,Entrega expressa interestadual,Custo,Logística,"2742,2", Variável,Comercial,,Cartão
+10/29/2024,Envio de amostras para cliente,Custo,Logística,"784,344", Variável,Comercial,,Boleto
+2/25/2024,Atualização de sistemas,Custo,TI,"1275,824", Fixo,TI,,Transferência
+1/19/2024,Venda de produtos premium,Receita,Vendas,"9639,01",,Administrativo, da Mota,Cartão
+11/15/2024,Serviço de consultoria especializada,Receita,Serviços,"4063,17",,Comercial, Ferreira,Cartão
+5/11/2024,Design e produção de catálogo,Custo,Marketing,"5897,296", Variável,Produção,,Boleto
+9/12/2024,Comissão sobre venda corporativa,Receita,Comissões,"951,14",,Comercial, Vieira,PIX
+10/14/2024,Serviços de hospedagem em nuvem,Custo,TI,"2767,992", Variável,TI,,Cartão
+7/17/2024,Comissão por fechamento de contrato,Receita,Comissões,"7709,74",,Administrativo, Pereira,Boleto
+5/14/2024,Patrocínio de evento setorial,Custo,Marketing,"5957,288", Variável,Administrativo,,Boleto
+10/21/2024,Assessoria técnica especializada,Receita,Serviços,"2664,52",,Administrativo, Araújo S.A.,Cartão
+3/19/2024,Treinamento de integração,Custo,RH,"5435,36", Fixo,Administrativo,,Transferência
+2/10/2024,Transporte de equipamentos,Custo,Logística,"5997,864", Variável,TI,,PIX
+1/17/2024,Comissão por parceria estratégica,Receita,Comissões,"9934,19",,Comercial, da Rocha,PIX
+1/27/2024,Aquisição de insumos para produção,Custo,Insumos,"2753,392", Variável,Administrativo,,Boleto
+12/9/2024,Implementação de solução técnica,Receita,Serviços,"4739,79",,Comercial, Jesus - ME,Cartão
+1/24/2024,Manutenção preventiva anual,Receita,Serviços,"2480,14",,Administrativo, Martins,Transferência
+5/9/2024,Aquisição de licenças de software,Custo,TI,"2319,192", Variável,Produção,,Cartão
+7/8/2024,Venda de produtos para estoque,Receita,Vendas,"6484,16",,Administrativo, da Paz,Cartão
+11/26/2024,Programa de incentivo a funcionários,Custo,RH,"6083,656", Variável,Produção,,Boleto
+4/13/2024,Manutenção de equipamentos,Custo,TI,"776,768", Fixo,TI,,Transferência
+2/20/2024,Compra de matéria-prima principal,Custo,Insumos,"6198,576", Fixo,Logística,,PIX
+2/6/2024,Compra de materiais para produção,Custo,Insumos,5228, Variável,Comercial,,PIX
+10/2/2024,Campanha publicitária sazonal,Custo,Marketing,"2982,04", Variável,Produção,,Transferência
+12/30/2024,Projeto de consultoria estratégica,Receita,Serviços,"9301,68",,Administrativo, Pereira S/A,PIX
+10/3/2024,Aquisição de insumos importados,Custo,Insumos,"5804,528", Variável,TI,,Transferência
+7/20/2024,Desenvolvimento de marca,Custo,Marketing,"6155,664", Fixo,TI,,Boleto
+6/30/2024,Comissão por captação de cliente,Receita,Comissões,"8482,29",,Comercial, Cavalcanti,PIX
+4/4/2024,Anúncio em mídia especializada,Custo,Marketing,"5482,36", Fixo,Administrativo,,Cartão
+4/1/2024,Venda de solução integrada,Receita,Vendas,"3619,88",,Administrativo, Souza,Transferência
+6/7/2024,Frete internacional,Custo,Logística,"1114,536", Variável,TI,,Boleto
+11/7/2024,Compra de materiais de segurança,Custo,Insumos,"3165,568", Fixo,Logística,,Boleto
+4/24/2024,Comissão por desempenho trimestral,Receita,Comissões,"6039,93",,Administrativo, Ribeiro Rocha S.A.,Cartão
+6/1/2024,Benefícios corporativos,Custo,RH,"5129,944", Fixo,TI,,Transferência
+6/29/2024,Venda de pacote completo,Receita,Vendas,"6885,65",,Comercial, Pinto,Cartão
+12/13/2024,Venda de licença anual,Receita,Vendas,"8403,13",,Administrativo, da Cunha da Rosa S/A,Cartão
+8/30/2024,Comissão por indicação premiada,Receita,Comissões,"3467,06",,Administrativo, Oliveira,PIX
+7/24/2024,Transporte interno de materiais,Custo,Logística,"1755,7696", Fixo,TI,,Boleto
+8/5/2024,Consultoria em processos produtivos,Receita,Serviços,"9216,3",,Comercial, da Cunha,PIX
+7/10/2024,Venda para cliente recorrente,Receita,Vendas,"1571,2",,Comercial, da Cunha e Filhos,PIX
+2/13/2024,Renovação de equipamentos de TI,Custo,TI,"375,7952", Fixo,Administrativo,,Cartão
+7/21/2024,Frete de importação,Custo,Logística,"3692,9792", Variável,Administrativo,,PIX
+3/9/2024,Compra de materiais indiretos,Custo,Insumos,"1799,5072", Fixo,Administrativo,,Cartão
+4/5/2024,Venda para novo cliente corporativo,Receita,Vendas,"9512,12",,Administrativo, Almeida,Boleto
+8/7/2024,Desenvolvimento de software sob medida,Receita,Serviços,"9942,98",,Administrativo, Cavalcanti das Neves Ltda.,Transferência
+12/22/2024,Venda de pacote premium,Receita,Vendas,"9300,93",,Comercial, da Rosa - ME,Cartão
+1/28/2024,Serviço de implementação,Receita,Serviços,"7228,7",,Comercial, Moura,Transferência
+10/19/2024,Programa de retenção de talentos,Custo,RH,"1943,8016", Variável,Produção,,Cartão
+6/25/2024,Implementação de sistema ERP,Custo,TI,"3322,3232", Variável,Produção,,PIX
+3/27/2024,Contratação de consultor externo,Custo,RH,"4548,7168", Variável,TI,,Boleto
+2/1/2024,Licenças de segurança digital,Custo,TI,"954,688", Variável,Comercial,,Cartão
